@@ -1,4 +1,5 @@
 # Labpy3
+
 # PENJELASAN LATIHAN 1
 * Masukkan nilai input. Nilai input ini berfungsi untuk menampilkan banyak data. Anda bisa memasukkan nilai berapa saja.
 * Dengan menggunakan fungsi random. Yakni, fungsi yang akan menampilkan angka dibawah 0.5 secara acak. Fungsi random sudah otomatis
@@ -19,3 +20,4 @@
 * Selanjutnya, hasil laba perbulan akan ditampilkan. Disini anda bisa menggunakan looping berupa for, untuk menampilkan kembali jumlah
 laba yang telah dihitung berdasarkan presentasenya.
 * Terakhir akan ditampilkan jumlah laba secara keseluruhan yang didapat dengan menggunakan sum. Berikut hasilnya:
+![TU](https://user-images.githubusercontent.com/57041365/68824895-d41c3400-06ca-11ea-8ea7-fb494b8eb016.png)
